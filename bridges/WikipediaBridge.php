@@ -21,6 +21,7 @@ class WikipediaBridge extends BridgeAbstract {
 				'Esperanto' => 'eo',
 				'French' => 'fr',
 				'German' => 'de',
+                                'Kiswahili' => 'sw'
 			)
 		),
 		'subject' => array(
